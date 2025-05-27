@@ -3,6 +3,7 @@
 A simple product card component built while learning HTML and CSS fundamentals.
 <p>Here's the codepen link :   <a href="https://codepen.io/Rolling-Thunder/full/YPKaPpY" target="_blank">Converse Chuck</a>
 </p>
+
 ## 📋 Overview
 
 This project features a Converse Chuck Taylor shoe product page with a clean, responsive layout. Created as a learning exercise to practice core web development concepts.
