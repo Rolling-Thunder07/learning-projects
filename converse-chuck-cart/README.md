@@ -1,40 +1,40 @@
-# Product Card Component
+# 👟 Product Card Component
 
 A simple product card component built while learning HTML and CSS fundamentals.
 
-## Overview
+## 📋 Overview
 
 This project features a Converse Chuck Taylor shoe product page with a clean, responsive layout. Created as a learning exercise to practice core web development concepts.
 
-## Features
+## ✨ Features
 
-- Responsive design using CSS Grid and Flexbox
-- Product information display with pricing
-- Color selection options
-- Interactive hover effects
-- Clean, modern styling
+- 📱 Responsive design using CSS Grid and Flexbox
+- 💰 Product information display with pricing
+- 🎨 Color selection options
+- 🖱️ Interactive hover effects
+- 🎯 Clean, modern styling
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- CSS Grid
-- Flexbox
+- 🌐 HTML5
+- 🎨 CSS3
+- 📐 CSS Grid
+- 🔧 Flexbox
 
-## What I Learned
+## 📚 What I Learned
 
-- How to structure semantic HTML
-- CSS Grid for layout management
-- Flexbox for component alignment
-- Positioning elements (absolute/relative)
-- Creating hover effects and transitions
-- Working with colors and typography
+- 🏗️ How to structure semantic HTML
+- 📊 CSS Grid for layout management
+- ⚖️ Flexbox for component alignment
+- 📍 Positioning elements (absolute/relative)
+- ✨ Creating hover effects and transitions
+- 🎨 Working with colors and typography
 
-## Getting Started
+## 🚀 Getting Started
 
 Simply open `index.html` in your browser to view the product card.
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 ├── index.html          # Main HTML file
@@ -44,4 +44,4 @@ Simply open `index.html` in your browser to view the product card.
 
 ---
 
-*This project was created as part of my web development learning journey.*
+*This project was created as part of my web development learning journey.* 🌱
