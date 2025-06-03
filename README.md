@@ -1,5 +1,4 @@
-# 🚀 Learning Projects Repository
-
+<h1 align="center">🚀 Learning Projects Repository</h1>
 Welcome to my coding journey! 👋 This repo is where I collect all my small projects and experiments while learning web development.
 
 ## 🎯 What's Inside
