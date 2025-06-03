@@ -1,4 +1,4 @@
-# 👟 Product Card Component
+<h1 align="center"> 👟 Product Card Component</h1>
 
 A simple product card component built while learning HTML and CSS fundamentals.
 <p>Here's the codepen link :   <a href="https://codepen.io/Rolling-Thunder/full/YPKaPpY" target="_blank">Converse Chuck</a>
